@@ -5,10 +5,8 @@ __pycache__/
 venv/
 .venv/
 
-# Checkpoints & model weights
+# Checkpoints
 .ipynb_checkpoints/
-*.pt
-*.bin
-*.safetensors
-chroma_db/
 output/
+chroma_db/
+dataops_adapter_checkpoints/

@@ -1,0 +1,18 @@
+# Core ML & Fine-Tuning
+torch>=2.2.0
+transformers>=4.40.0
+datasets>=2.18.0
+peft>=0.10.0
+bitsandbytes>=0.43.0
+accelerate>=0.29.0
+trl>=0.8.6
+
+# RAG & Embeddings
+langchain>=0.1.16
+langchain-community>=0.0.34
+chromadb>=0.4.24
+sentence-transformers>=2.7.0
+pypdf>=4.2.0
+
+# Dashboard / Demonstration App
+streamlit>=1.33.0
